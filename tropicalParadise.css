@@ -1,0 +1,27 @@
+body{
+background: url(https://images.unsplash.com/photo-1532204153975-d02c743d220b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80);
+background-size: cover;
+background-position: center;
+font-family: Playfair Display;
+}
+
+h1{
+text-align: center;
+color: #4afcff;
+}
+
+.content{
+text-align: center;
+padding-top: 25%;
+}
+
+html{
+height: 100%;
+}
+
+hr{
+width: 400px;
+border-top: 1px solid #4afcff;
+border-bottom: 1px solid #4afcff;
+}
+
